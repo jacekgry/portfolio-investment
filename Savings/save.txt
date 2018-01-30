@@ -1,0 +1,24 @@
+bankDeposit
+lokata2
+23.00
+pko
+0.23
+contract
+kontrakt2
+1024.00
+64.00
+realEstate
+dom
+21999.00
+2137.00
+Kornicka 30
+units
+asd
+331.00
+0
+0.00
+IKE
+ike 2
+89991.00
+12.00
+9.23

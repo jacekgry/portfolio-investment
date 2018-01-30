@@ -1,0 +1,177 @@
+# depslib dependency file v1.0
+1512165514 source:c:\users\jacekg\desktop\ok\ok_c\savings\main.cpp
+	<iostream>
+	"portfolioInvestment.cpp"
+
+1512165385 c:\users\jacekg\desktop\ok\ok_c\savings\portfolioinvestment.cpp
+	<iostream>
+	<vector>
+
+1512165385 source:c:\users\jacekg\desktop\ok\ok_c\savings\portfolioinvestment.cpp
+	<iostream>
+	<vector>
+
+1512166919 source:c:\users\jacekg\desktop\po\savings\contract.cpp
+
+1512168502 source:c:\users\jacekg\desktop\po\savings\ike.cpp
+
+1512168519 source:c:\users\jacekg\desktop\po\savings\ikze.cpp
+
+1512166546 source:c:\users\jacekg\desktop\po\savings\investment.cpp
+
+1512167318 source:c:\users\jacekg\desktop\po\savings\structuredproduct.cpp
+
+1512166861 source:c:\users\jacekg\desktop\po\savings\unitinvestmenttrust.cpp
+
+1515629094 source:c:\users\jacekg\desktop\po\savings\asset.cpp
+	"asset.h"
+
+1515621179 c:\users\jacekg\desktop\po\savings\asset.h
+	<string>
+
+1515620289 source:c:\users\jacekg\desktop\po\savings\portfolio.cpp
+	"portfolioInvestment.cpp"
+
+1515634387 c:\users\jacekg\desktop\po\savings\portfolioinvestment.cpp
+	<iostream>
+	<vector>
+	"asset.h"
+
+1515620346 c:\users\jacekg\desktop\po\savings\asset.cpp
+	"asset.h"
+
+1515501952 source:c:\users\jacekg\desktop\po\savings\realestate.cpp
+	"realEstate.hpp"
+
+1515501388 c:\users\jacekg\desktop\po\savings\realestate.hpp
+	<string>
+
+1515634387 source:c:\users\jacekg\desktop\po\savings\portfolioinvestment.cpp
+	<iostream>
+	<vector>
+	"asset.h"
+
+1515631006 source:c:\users\jacekg\desktop\po\savings\main.cpp
+	<iostream>
+	"portfolioInvestment.cpp"
+	"menu.h"
+
+1515634371 source:c:\users\jacekg\desktop\po\savings\menu.cpp
+	"menu.h"
+
+1515634541 c:\users\jacekg\desktop\po\savings\menu.h
+	"portfolioInvestment.cpp"
+
+1517164656 source:d:\po\savings\asset.cpp
+	"asset.h"
+	"NegativeValueException.hpp"
+
+1517150468 d:\po\savings\asset.h
+	<string>
+	<math.h>
+
+1517164841 source:d:\po\savings\contract.cpp
+	"contract.hpp"
+	"NegativeValueException.hpp"
+	<iostream>
+	<stdlib.h>
+
+1517165877 source:d:\po\savings\ike.cpp
+	"IKE.hpp"
+	<iostream>
+	<stdlib.h>
+	"NegativeValueException.hpp"
+
+1512168519 source:d:\po\savings\ikze.cpp
+
+1512166546 source:d:\po\savings\investment.cpp
+
+1517143868 source:d:\po\savings\main.cpp
+	<iostream>
+	"portfolioInvestment.cpp"
+	"menu.h"
+
+1517174090 d:\po\savings\portfolioinvestment.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<string>
+	<iomanip>
+	"asset.h"
+	"BankDeposit.hpp"
+	"realEstate.hpp"
+	"UnitsOfInvestmentFund.hpp"
+	"IKE.hpp"
+	"contract.hpp"
+
+1515773194 d:\po\savings\menu.h
+	"portfolioInvestment.cpp"
+
+1517164875 source:d:\po\savings\realestate.cpp
+	"realEstate.hpp"
+	"NegativeValueException.hpp"
+	<iostream>
+	<stdlib.h>
+	<ctime>
+
+1517150339 d:\po\savings\realestate.hpp
+	<string>
+	"asset.h"
+
+1512167318 source:d:\po\savings\structuredproduct.cpp
+
+1512166861 source:d:\po\savings\unitinvestmenttrust.cpp
+
+1517174090 source:d:\po\savings\portfolioinvestment.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<string>
+	<iomanip>
+	"asset.h"
+	"BankDeposit.hpp"
+	"realEstate.hpp"
+	"UnitsOfInvestmentFund.hpp"
+	"IKE.hpp"
+	"contract.hpp"
+
+1517174888 source:d:\po\savings\bankdeposit.cpp
+	"BankDeposit.hpp"
+	"asset.h"
+	"NegativeValueException.hpp"
+	<iostream>
+	<stdlib.h>
+
+1517150306 d:\po\savings\bankdeposit.hpp
+	"asset.h"
+
+1517165916 source:d:\po\savings\menu.cpp
+	"menu.h"
+	"BankDeposit.hpp"
+	"realEstate.hpp"
+	"UnitsOfInvestmentFund.hpp"
+	"IKE.hpp"
+	"contract.hpp"
+	<string>
+	<stdlib.h>
+
+1517150338 d:\po\savings\unitsofinvestmentfund.hpp
+	"Asset.h"
+
+1517165804 source:d:\po\savings\unitsofinvestmentfund.cpp
+	"UnitsOfInvestmentFund.hpp"
+	"NegativeValueException.hpp"
+	<iostream>
+	<stdlib.h>
+	<ctime>
+
+1517150339 d:\po\savings\ike.hpp
+	"Asset.h"
+
+1517150339 d:\po\savings\contract.hpp
+	"asset.h"
+
+1515804069 d:\po\savings\negativevalueexception.hpp
+
